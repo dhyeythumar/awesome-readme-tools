@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [Statistical Tools (Widgets)](#statistical-tools-(widgets))
+- [Statistical Tools (Widgets)](#statistical-tools-widgets)
 - [Readme Generator](#readme-generator)
 - [GitHub Action Tools for Readmes](#github-action-tools-for-readmes)
 - [Badges](#badges)
