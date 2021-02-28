@@ -1,0 +1,27 @@
+name: Check Markdown Links
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+  pull_request:
+    paths:
+      - "README.md"
+
+jobs:
+  markdown-link-check:
+    name: Check for broken links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: main
+      - name: Run link check
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: 'no'
+          use-verbose-mode: 'yes'
+          check-modified-files-only: 'yes'
