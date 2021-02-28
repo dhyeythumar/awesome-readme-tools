@@ -6,7 +6,7 @@
 
 - [Statistical Tools (Widgets)](#statistical-tools-widgets)
 - [Readme Generator](#readme-generator)
-- [GitHub Action Tools for Readmes](#github-action-tools-for-readmes)
+- [GitHub Actions for Readmes](#github-actions-for-readmes)
 - [Badges](#badges)
 - [Miscellaneous](#miscellaneous)
 
@@ -31,7 +31,7 @@
 - [GitHub Profilinator](https://github.com/rishavanand/github-profilinator#readme) - 🚀 This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [REHeader](https://github.com/khalby786/REHeader#readme) - Generate beautiful header images for your GitHub profile readmes.
 
-## GitHub Action Tools for Readmes
+## GitHub Actions for Readmes
 
 - [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow#readme) - Show the latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed.
 - [Dynamic Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page#readme) - GitHub Action to push updates to your special profile repository.
