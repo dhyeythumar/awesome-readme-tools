@@ -8,7 +8,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 Please ensure your pull request adheres to the following guidelines:
 
 - Alphabetize your entry.
-- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Search previous PRs before making a new one, as yours may be a duplicate.
 - Use the following format: `[Tool name](link) - Description.`
 - Suggested README tools should be beautiful or stand out in some way.
 - Make an individual pull request for each suggestion.
@@ -19,4 +19,4 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure to use `.editorconfig` while formating.
 
-Thank you for your suggestions!
+Thank you for your contributions!
