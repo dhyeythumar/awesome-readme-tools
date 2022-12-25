@@ -30,7 +30,7 @@
 - [rahuldkjain/GitHub Profile Readme Generator](https://github.com/rahuldkjain/github-profile-readme-generator#readme) - 🚀 Generate github profile readme easily with the latest add-ons like visitors count, github stats, etc using minimal UI.
 - [GitHub Profilinator](https://github.com/rishavanand/github-profilinator#readme) - 🚀 This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [REHeader](https://github.com/khalby786/REHeader#readme) - Generate beautiful header images for your github profile readmes.
-- [github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - Create your perfect GitHub Profile ReadMe in the best possible way
+- [github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - Create your perfect GitHub Profile ReadMe in the best possible way.
 
 ## GitHub Actions for Readmes
 
