@@ -20,7 +20,7 @@
 - [GitHub Readme Twitter](https://github.com/gazf/github-readme-twitter#readme) - Add Twitter to your github readmes.
 - [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator#readme) - Generate custom profile activity for your profile readme.
 - [Readme Pagespeed Insights](https://github.com/ankurparihar/readme-pagespeed-insights#readme) - Google lighthouse stats of your website that you can put in readme.
-- [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile.
+- [Spotify Github Profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile.
 - [Waka Readme](https://github.com/athul/waka-readme#readme) - Wakatime weekly metrics on your profile readme.
 - [YouTube Stats Card](https://github.com/Dhyeythumar/youtube-stats-card#readme) - 🚀 Dynamic YouTube stats card for your github readmes.
 
