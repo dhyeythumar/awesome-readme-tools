@@ -29,9 +29,9 @@
 - [Get Readme](https://github.com/luctst/get-readme#readme) - CLI tool to generate an esthetic readme file 🔖.
 - [arturssmirnovs/GitHub Profile Readme Generator](https://github.com/arturssmirnovs/github-profile-readme-generator#readme) - GitHub profile readme generator allows you to create nice and simple github profile readme files that will be included in your profile previews.
 - [rahuldkjain/GitHub Profile Readme Generator](https://github.com/rahuldkjain/github-profile-readme-generator#readme) - 🚀 Generate github profile readme easily with the latest add-ons like visitors count, github stats, etc using minimal UI.
-- [Github Profile Readme Maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - Create your perfect GitHub Profile ReadMe in the best possible way.
+- [GitHub Profile Readme Maker](https://github.com/VishwaGauravIn/github-profile-readme-maker#readme) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫.
 - [GitHub Profilinator](https://github.com/rishavanand/github-profilinator#readme) - 🚀 This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
-- [Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Beautify your github profile with this amazing tool.
+- [Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator#readme) - 🎨 Beautify your github profile with this amazing tool.
 - [REHeader](https://github.com/khalby786/REHeader#readme) - Generate beautiful header images for your github profile readmes.
 
 ## GitHub Actions for Readmes
@@ -56,6 +56,7 @@
 
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#readme) - 🏆 Add dynamically generated github trophy on your readme.
 - [GitHub Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes#readme) - 🔥 Add programming quotes to your github readme.
+- [GitHub Stats Terminal Style](https://github.com/yogeshwaran01/github-stats-terminal-style#readme) - Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
 - [Readme Jokes](https://github.com/ABSphreak/readme-jokes#readme) - 😄 Jokes for your github readmes.
 - [Random Memer](https://github.com/techytushar/random-memer#readme) - Returns random meme images scraped from Memedroid.
 - [Spotify GitHub Profile](https://github.com/kittinan/spotify-github-profile#readme) - Show your Spotify playing on your github profile.
