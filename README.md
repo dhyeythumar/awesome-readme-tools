@@ -54,6 +54,7 @@
 
 ## Miscellaneous
 
+- [GitHub Profile Header Generator](https://github.com/leviarista/github-profile-header-generator) - A header image generator for your Github profile Readme.
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#readme) - 🏆 Add dynamically generated github trophy on your readme.
 - [GitHub Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes#readme) - 🔥 Add programming quotes to your github readme.
 - [GitHub Stats Terminal Style](https://github.com/yogeshwaran01/github-stats-terminal-style#readme) - Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
