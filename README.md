@@ -61,6 +61,7 @@
 - [Readme Jokes](https://github.com/ABSphreak/readme-jokes#readme) - 😄 Jokes for your github readmes.
 - [Random Memer](https://github.com/techytushar/random-memer#readme) - Returns random meme images scraped from Memedroid.
 - [Spotify GitHub Profile](https://github.com/kittinan/spotify-github-profile#readme) - Show your Spotify playing on your github profile.
+- [Spotify Readme](https://github.com/tthn0/Spotify-Readme#readme) - A modern and customizable widget for showing your current Spotify song on your github profile.
 - [Simple Icons](https://github.com/simple-icons/simple-icons#readme) - SVG icons for popular brands.
 - [Spotify Recently Played Readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
 
