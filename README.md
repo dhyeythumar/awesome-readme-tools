@@ -15,6 +15,7 @@
 - [GitHub Contributions Chart](https://github.com/sallar/github-contributions-chart#readme) - :octocat: Generate an image of all your Github contributions
 - [GitHub Readme LinkedIn](https://github.com/soroushchehresa/github-readme-linkedin#readme) - 📋 Dynamically generated images from your LinkedIn profile on your github readmes.
 - [GitHub Readme Medium](https://github.com/omidnikrah/github-readme-medium#readme) - 📖 Dynamically generated your latest Medium article on your github readmes.
+- [GitHub Readme Packagist Stats](https://github.com/agonyz/github-readme-packagist-stats) - Dynamically generated statistics of your Packagist Bundles for your GitHub readme.
 - [GitHub Readme StackOverflow](https://github.com/omidnikrah/github-readme-stackoverflow#readme) - 📊 Dynamically generated your StackOverflow status on your github readmes.
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) - ⚡ Dynamically generated stats for your github readmes.
 - [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats#readme) - Display your total contributions, current streak, and longest streak on your github profile readme.
