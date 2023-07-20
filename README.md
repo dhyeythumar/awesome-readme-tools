@@ -12,6 +12,8 @@
 
 ## Statistical Tools (Widgets)
 
+- [GitClear Commit Activity Bubble Graph](https://www.gitclear.com/github_profile_dynamic_readme_free#commit_activity) - Dynamically generating daily visualization of which tickets/repos/branches are being worked on by individual or team
+- [GitClear Area Charts for GitHub Profiles](https://www.gitclear.com/github_profile_dynamic_readme_free#area_graph) - Dynamically generating area charts to showcase relative velocity of work across repos
 - [GitHub Contributions Chart](https://github.com/sallar/github-contributions-chart#readme) - :octocat: Generate an image of all your Github contributions
 - [GitHub Readme LinkedIn](https://github.com/soroushchehresa/github-readme-linkedin#readme) - 📋 Dynamically generated images from your LinkedIn profile on your github readmes.
 - [GitHub Readme Medium](https://github.com/omidnikrah/github-readme-medium#readme) - 📖 Dynamically generated your latest Medium article on your github readmes.
