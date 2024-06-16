@@ -54,6 +54,7 @@
 - [Shields](https://github.com/badges/shields#readme) - Concise, consistent, and legible badges in SVG and raster format.
 - [StackOverflow Badge](https://github.com/claytonjhamilton/stackoverflow-badge#readme) - Display your stats with this unique StackOverflow badge.
 - [Visitor Badge](https://github.com/jwenjian/visitor-badge#readme) - A badge generator service to count visitors of your markdown file.
+- [My Badges](https://github.com/my-badges/my-badges) - 💎 Funny badges. Similar to GitHub Achievements, but users can define own badges.
 
 ## Miscellaneous
 
