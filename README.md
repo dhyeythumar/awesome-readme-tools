@@ -51,6 +51,7 @@
 - [Git Badges](https://github.com/puf17640/git-badges#readme) - An API serving useful badges for your github profile readme 🚀.
 - [Hits](https://github.com/dwyl/hits) - 📈 General purpose hits (page views) counter.
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges#readme) - Badges for your profile and projects.
+- [My Badges](https://github.com/my-badges/my-badges) - 💎 Funny badges. Similar to GitHub Achievements, but users can define own badges.
 - [Shields](https://github.com/badges/shields#readme) - Concise, consistent, and legible badges in SVG and raster format.
 - [StackOverflow Badge](https://github.com/claytonjhamilton/stackoverflow-badge#readme) - Display your stats with this unique StackOverflow badge.
 - [Visitor Badge](https://github.com/jwenjian/visitor-badge#readme) - A badge generator service to count visitors of your markdown file.
