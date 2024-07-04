@@ -30,11 +30,11 @@
 ## Readme Generator
 
 - [Get Readme](https://github.com/luctst/get-readme#readme) - CLI tool to generate an esthetic readme file 🔖.
-- [Plantek README Manager](https://gitlab.com/MarleyPlant/readme-manager) - Stop wasting time on READMEs. This CLI tool generates professional documents for your Git projects with ease.
 - [arturssmirnovs/GitHub Profile Readme Generator](https://github.com/arturssmirnovs/github-profile-readme-generator#readme) - GitHub profile readme generator allows you to create nice and simple github profile readme files that will be included in your profile previews.
 - [rahuldkjain/GitHub Profile Readme Generator](https://github.com/rahuldkjain/github-profile-readme-generator#readme) - 🚀 Generate github profile readme easily with the latest add-ons like visitors count, github stats, etc using minimal UI.
 - [GitHub Profile Readme Maker](https://github.com/VishwaGauravIn/github-profile-readme-maker#readme) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫.
 - [GitHub Profilinator](https://github.com/rishavanand/github-profilinator#readme) - 🚀 This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
+- [Plantek README Manager](https://gitlab.com/MarleyPlant/readme-manager) - Stop wasting time on READMEs. This CLI tool generates professional documents for your Git projects with ease.
 - [Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator#readme) - 🎨 Beautify your github profile with this amazing tool.
 - [REHeader](https://github.com/khalby786/REHeader#readme) - Generate beautiful header images for your github profile readmes.
 
