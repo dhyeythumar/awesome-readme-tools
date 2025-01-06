@@ -40,6 +40,7 @@
 
 ## GitHub Actions for Readmes
 
+- [activity-log](https://github.com/TheDanniCraft/activity-log#readme) - Dynamically display your recent github activity (Markdown  or HTML).
 - [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow#readme) - Show the latest blog posts from any sources or StackOverflow activity or youtube videos on your github profile/project readme automatically using the RSS feed.
 - [Dynamic Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page#readme) - GitHub action to push updates to your special profile repository.
 - [Github Activity Readme](https://github.com/jamesgeorge007/github-activity-readme#readme) - Updates readme with the recent github activity of a user.
