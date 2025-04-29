@@ -4,15 +4,11 @@
 
 ## Contents
 
-- [Awesome README Tools ](#awesome-readme-tools-)
-  - [Contents](#contents)
-  - [Statistical Tools (Widgets)](#statistical-tools-widgets)
-  - [Readme Generator](#readme-generator)
-  - [GitHub Actions for Readmes](#github-actions-for-readmes)
-  - [Badges](#badges)
-  - [Miscellaneous](#miscellaneous)
-  - [Contribute](#contribute)
-  - [License](#license)
+- [Statistical Tools (Widgets)](#statistical-tools-widgets)
+- [Readme Generator](#readme-generator)
+- [GitHub Actions for Readmes](#github-actions-for-readmes)
+- [Badges](#badges)
+- [Miscellaneous](#miscellaneous)
 
 ## Statistical Tools (Widgets)
 
