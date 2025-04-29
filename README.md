@@ -4,11 +4,15 @@
 
 ## Contents
 
-- [Statistical Tools (Widgets)](#statistical-tools-widgets)
-- [Readme Generator](#readme-generator)
-- [GitHub Actions for Readmes](#github-actions-for-readmes)
-- [Badges](#badges)
-- [Miscellaneous](#miscellaneous)
+- [Awesome README Tools ](#awesome-readme-tools-)
+  - [Contents](#contents)
+  - [Statistical Tools (Widgets)](#statistical-tools-widgets)
+  - [Readme Generator](#readme-generator)
+  - [GitHub Actions for Readmes](#github-actions-for-readmes)
+  - [Badges](#badges)
+  - [Miscellaneous](#miscellaneous)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## Statistical Tools (Widgets)
 
@@ -21,6 +25,7 @@
 - [GitHub Readme StackOverflow](https://github.com/omidnikrah/github-readme-stackoverflow#readme) - 📊 Dynamically generated your StackOverflow status on your github readmes.
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) - ⚡ Dynamically generated stats for your github readmes.
 - [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats#readme) - Display your total contributions, current streak, and longest streak on your github profile readme.
+- [GitHub Readme Telegram](https://github.com/Malith-Rukshan/telegram-card) - Showcase your Telegram presence with beautiful, dynamic preview cards.
 - [GitHub Readme Twitter](https://github.com/gazf/github-readme-twitter#readme) - Add Twitter to your github readmes.
 - [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator#readme) - Generate custom profile activity for your profile readme.
 - [Readme Pagespeed Insights](https://github.com/ankurparihar/readme-pagespeed-insights#readme) - Google lighthouse stats of your website that you can put in readme.
