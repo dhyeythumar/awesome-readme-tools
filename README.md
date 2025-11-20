@@ -45,6 +45,7 @@
 - [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow#readme) - Show the latest blog posts from any sources or StackOverflow activity or youtube videos on your github profile/project readme automatically using the RSS feed.
 - [Dynamic Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page#readme) - GitHub action to push updates to your special profile repository.
 - [Github Activity Readme](https://github.com/jamesgeorge007/github-activity-readme#readme) - Updates readme with the recent github activity of a user.
+- [My Most Famous Followers](https://github.com/Joe-Huber/awesome-readme-tools) - Automatically creates a table in your read me with your most followed followers.
 - [Profile Readme](https://github.com/actions-js/profile-readme#readme) - Display profile activity and other cool widgets in your profile readme.
 - [Profile Readme Stats](https://github.com/teoxoy/profile-readme-stats#readme) - Showcase your github stats on your profile readme.
 - [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats#readme) - GitHub action helps to add cool dev metrics to your github profile readme.
