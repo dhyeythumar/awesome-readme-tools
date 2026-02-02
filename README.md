@@ -24,6 +24,7 @@
 - [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats#readme) - Display your total contributions, current streak, and longest streak on your github profile readme.
 - [GitHub Readme Telegram](https://github.com/Malith-Rukshan/telegram-card) - Showcase your Telegram presence with beautiful, dynamic preview cards.
 - [GitHub Readme Twitter](https://github.com/gazf/github-readme-twitter#readme) - Add Twitter to your github readmes.
+- [Isometric Contributions](https://github.com/Spectrewolf8/isometric-contributions) - Generate beautiful 3D isometric visualizations of GitHub contribution graphs with customizable themes, live preview builder, dark mode support, and intelligent caching.
 - [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator#readme) - Generate custom profile activity for your profile readme.
 - [Readme Pagespeed Insights](https://github.com/ankurparihar/readme-pagespeed-insights#readme) - Google lighthouse stats of your website that you can put in readme.
 - [Waka Readme](https://github.com/athul/waka-readme#readme) - Wakatime weekly metrics on your profile readme.
@@ -42,7 +43,7 @@
 
 ## GitHub Actions for Readmes
 
-- [Activity Log](https://github.com/TheDanniCraft/activity-log#readme) - Dynamically display your recent github activity (Markdown  or HTML).
+- [Activity Log](https://github.com/TheDanniCraft/activity-log#readme) - Dynamically display your recent github activity (Markdown or HTML).
 - [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow#readme) - Show the latest blog posts from any sources or StackOverflow activity or youtube videos on your github profile/project readme automatically using the RSS feed.
 - [Dynamic Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page#readme) - GitHub action to push updates to your special profile repository.
 - [Github Activity Readme](https://github.com/jamesgeorge007/github-activity-readme#readme) - Updates readme with the recent github activity of a user.
