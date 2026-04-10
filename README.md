@@ -28,6 +28,7 @@
 - [Isometric Contributions](https://github.com/Spectrewolf8/isometric-contributions) - Generate beautiful 3D isometric visualizations of GitHub contribution graphs with customizable themes, live preview builder, dark mode support, and intelligent caching.
 - [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator#readme) - Generate custom profile activity for your profile readme.
 - [Readme Pagespeed Insights](https://github.com/ankurparihar/readme-pagespeed-insights#readme) - Google lighthouse stats of your website that you can put in readme.
+- [Terminal Identity](https://github.com/doyoon530/terminal-identity#readme) - 🖥️ Generate terminal-style SVG identity cards for your github profile readme with live stats, 4 provider shells, 8 themes, and zero config.
 - [Waka Readme](https://github.com/athul/waka-readme#readme) - Wakatime weekly metrics on your profile readme.
 - [YouTube Stats Card](https://github.com/Dhyeythumar/youtube-stats-card#readme) - 🚀 Dynamic YouTube stats card for your github readmes.
 
