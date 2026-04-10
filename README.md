@@ -30,6 +30,7 @@
 - [Readme Pagespeed Insights](https://github.com/ankurparihar/readme-pagespeed-insights#readme) - Google lighthouse stats of your website that you can put in readme.
 - [Waka Readme](https://github.com/athul/waka-readme#readme) - Wakatime weekly metrics on your profile readme.
 - [YouTube Stats Card](https://github.com/Dhyeythumar/youtube-stats-card#readme) - 🚀 Dynamic YouTube stats card for your github readmes.
+- [Coolreadme](https://coolreadme.xyz) - 🎴 29+ embeddable profile cards — Netflix, YouTube, Steam, Twitch, X/Twitter, Now Listening, animated streak pet cards (fox 🦊 penguin 🐧 owl 🦉), and AI identity badges. Paste a URL, done.
 
 ## Readme Generator
 
