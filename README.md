@@ -12,7 +12,6 @@
 
 ## Statistical Tools (Widgets)
 
-- [Ghstats](https://github.com/tiennm99/ghstats#readme) - Go CLI + GitHub Action that generates 9 themed SVG profile cards with 61+ themes and byte-weighted commit-to-language attribution.
 - [GitClear Commit Activity](https://www.gitclear.com/github_profile_dynamic_readme_free#commit_activity) - Dynamically generating daily visualization of which tickets/repos/branches are being worked on by individual or team
 - [GitClear Area Charts](https://www.gitclear.com/github_profile_dynamic_readme_free#area_graph) - Dynamically generating area charts to showcase relative velocity of work across repos
 - [GitHub Contributions Chart](https://github.com/sallar/github-contributions-chart#readme) - :octocat: Generate an image of all your Github contributions
@@ -49,6 +48,7 @@
 - [Activity Log](https://github.com/TheDanniCraft/activity-log#readme) - Dynamically display your recent github activity (Markdown or HTML).
 - [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow#readme) - Show the latest blog posts from any sources or StackOverflow activity or youtube videos on your github profile/project readme automatically using the RSS feed.
 - [Dynamic Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page#readme) - GitHub action to push updates to your special profile repository.
+- [Ghstats](https://github.com/tiennm99/ghstats#readme) - Go CLI + GitHub Action that generates 9 themed SVG profile cards with 61+ themes and byte-weighted commit-to-language attribution.
 - [Github Activity Readme](https://github.com/jamesgeorge007/github-activity-readme#readme) - Updates readme with the recent github activity of a user.
 - [My Most Famous Followers](https://github.com/Joe-Huber/my-most-followed-followers) - Automatically creates a table in your read me with your most followed followers.
 - [Profile Readme](https://github.com/actions-js/profile-readme#readme) - Display profile activity and other cool widgets in your profile readme.
