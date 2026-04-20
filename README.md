@@ -31,6 +31,7 @@
 - [Terminal Identity](https://github.com/doyoon530/terminal-identity#readme) - 🖥️ Generate terminal-style SVG identity cards for your github profile readme with live stats, 4 provider shells, 8 themes, and zero config.
 - [Waka Readme](https://github.com/athul/waka-readme#readme) - Wakatime weekly metrics on your profile readme.
 - [YouTube Stats Card](https://github.com/Dhyeythumar/youtube-stats-card#readme) - 🚀 Dynamic YouTube stats card for your github readmes.
+- [Coolreadme](https://coolreadme.xyz) - 🎴 29+ embeddable profile cards — Netflix, YouTube, Steam, Twitch, X/Twitter, Now Listening, animated streak pet cards (fox 🦊 penguin 🐧 owl 🦉), and AI identity badges. Paste a URL, done.
 
 ## Readme Generator
 
