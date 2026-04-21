@@ -35,6 +35,7 @@
 ## Readme Generator
 
 - [Coolreadme](https://coolreadme.xyz) - AI-powered README generator with live preview and customizable templates for both profile and project readmes.
+- [Docsmith](https://docsmithai.com) - Generates documentation sites (not just READMEs) from a GitHub repo URL. AI-powered, outputs markdown, takes <60s.
 - [Get Readme](https://github.com/luctst/get-readme#readme) - CLI tool to generate an esthetic readme file 🔖.
 - [arturssmirnovs/GitHub Profile Readme Generator](https://github.com/arturssmirnovs/github-profile-readme-generator#readme) - GitHub profile readme generator allows you to create nice and simple github profile readme files that will be included in your profile previews.
 - [rahuldkjain/GitHub Profile Readme Generator](https://github.com/rahuldkjain/github-profile-readme-generator#readme) - 🚀 Generate github profile readme easily with the latest add-ons like visitors count, github stats, etc using minimal UI.
