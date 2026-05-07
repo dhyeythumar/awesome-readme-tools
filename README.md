@@ -79,6 +79,7 @@
 - [Spotify Readme](https://github.com/tthn0/Spotify-Readme#readme) - A modern and customizable widget for showing your current Spotify song on your github profile.
 - [Simple Icons](https://github.com/simple-icons/simple-icons#readme) - SVG icons for popular brands.
 - [Spotify Recently Played Readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
+- [TinyTools OG Image Generator](https://tinytools-smoky.vercel.app/) - Free, browser-based Open Graph image generator for repo social-preview cards (the image GitHub shows when a repo URL is shared on Twitter/Slack/etc). No signup; part of an open-source web utilities collection.
 
 ## Contribute
 
