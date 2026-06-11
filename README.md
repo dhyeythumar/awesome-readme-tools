@@ -78,6 +78,7 @@
 - [Spotify GitHub Profile](https://github.com/kittinan/spotify-github-profile#readme) - Show your Spotify playing on your github profile.
 - [Spotify Readme](https://github.com/tthn0/Spotify-Readme#readme) - A modern and customizable widget for showing your current Spotify song on your github profile.
 - [Simple Icons](https://github.com/simple-icons/simple-icons#readme) - SVG icons for popular brands.
+- [Mermaid Online](https://mermaidonline.org/?utm_source=github&utm_medium=github_awesome_list&utm_campaign=mermaid-online_backlink_outreach&utm_content=awesome_readme_tools_pr) - Preview Mermaid diagrams and export them as PNG, SVG, JPG, WebP, or PDF assets for README files.
 - [Spotify Recently Played Readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
 
 ## Contribute
