@@ -69,6 +69,7 @@
 
 ## Miscellaneous
 
+- [Mini-Tools.uk Image Hosting](https://mini-tools.uk/upload) - Upload screenshots and copy direct, Markdown, HTML, or BBCode image links for README files.
 - [GitHub Profile Header Generator](https://github.com/leviarista/github-profile-header-generator) - A header image generator for your Github profile Readme.
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#readme) - 🏆 Add dynamically generated github trophy on your readme.
 - [GitHub Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes#readme) - 🔥 Add programming quotes to your github readme.
