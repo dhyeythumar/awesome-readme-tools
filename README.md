@@ -74,6 +74,7 @@
 - [GitHub Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes#readme) - 🔥 Add programming quotes to your github readme.
 - [GitHub Stats Terminal Style](https://github.com/yogeshwaran01/github-stats-terminal-style#readme) - Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
 - [Readme Jokes](https://github.com/ABSphreak/readme-jokes#readme) - 😄 Jokes for your github readmes.
+- [Mini-Tools.uk Image Hosting](https://mini-tools.uk/upload?utm_source=github&utm_medium=readme&utm_campaign=image-hosting) - Generate Direct URL, Markdown, HTML and BBCode links for README images and screenshots.
 - [Random Memer](https://github.com/techytushar/random-memer#readme) - Returns random meme images scraped from Memedroid.
 - [Spotify GitHub Profile](https://github.com/kittinan/spotify-github-profile#readme) - Show your Spotify playing on your github profile.
 - [Spotify Readme](https://github.com/tthn0/Spotify-Readme#readme) - A modern and customizable widget for showing your current Spotify song on your github profile.
