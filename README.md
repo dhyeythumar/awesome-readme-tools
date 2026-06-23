@@ -55,6 +55,7 @@
 - [My Most Famous Followers](https://github.com/Joe-Huber/my-most-followed-followers) - Automatically creates a table in your read me with your most followed followers.
 - [Profile Readme](https://github.com/actions-js/profile-readme#readme) - Display profile activity and other cool widgets in your profile readme.
 - [Profile Readme Stats](https://github.com/teoxoy/profile-readme-stats#readme) - Showcase your github stats on your profile readme.
+- [Three Readme](https://github.com/kpab/three-readme#readme) - Render genuine Three.js scenes as animated SVGs to embed in your readme.
 - [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats#readme) - GitHub action helps to add cool dev metrics to your github profile readme.
 
 ## Badges
