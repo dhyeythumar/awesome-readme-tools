@@ -69,6 +69,7 @@
 
 ## Miscellaneous
 
+- [ASCII Art Generator](https://alltoolsverse.com/tools/text-to-ascii-art/) - Turns short text into five-line ASCII art banners for README files, code comments, and terminals.
 - [GitHub Profile Header Generator](https://github.com/leviarista/github-profile-header-generator) - A header image generator for your Github profile Readme.
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#readme) - 🏆 Add dynamically generated github trophy on your readme.
 - [GitHub Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes#readme) - 🔥 Add programming quotes to your github readme.
