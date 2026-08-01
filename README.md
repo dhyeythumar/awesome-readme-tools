@@ -12,6 +12,8 @@
 
 ## Statistical Tools (Widgets)
 
+- [Pin me](https://github.com/Chintanpatel24/pinme) - Pin your repo in the README as a pinned repo list !!
+- [Gitlyy](https://github.com/Chintanpatel24/gitlyy) - GitHub README stats for your profile and performance overview , with new ideas!!
 - [GitClear Commit Activity](https://www.gitclear.com/github_profile_dynamic_readme_free#commit_activity) - Dynamically generating daily visualization of which tickets/repos/branches are being worked on by individual or team
 - [GitClear Area Charts](https://www.gitclear.com/github_profile_dynamic_readme_free#area_graph) - Dynamically generating area charts to showcase relative velocity of work across repos
 - [GitHub Contributions Chart](https://github.com/sallar/github-contributions-chart#readme) - :octocat: Generate an image of all your Github contributions
