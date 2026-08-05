@@ -17,6 +17,7 @@
 - [GitHub Contributions Chart](https://github.com/sallar/github-contributions-chart#readme) - :octocat: Generate an image of all your Github contributions
 - [Github Follow Tracker](https://github.com/Bittu5134/GH-Follow-Tracker) - 📈 Showcase Follower History using dynamically generating SVG images.
 - [GitHub PR Stats](https://github.com/f14XuanLv/github-pr-stats#readme) - 📊 Generate dynamic SVG tables showcasing your GitHub pull requests with repository statistics and star-based filtering.
+- [GitHub Readme Chinese Zodiac](https://github.com/seuthootDev/github-readme-chinese-zodiac#readme) - Asian zodiac (十二生肖) SVG profile cards and pinned Gists from your GitHub activity.
 - [GitHub Readme LinkedIn](https://github.com/soroushchehresa/github-readme-linkedin#readme) - 📋 Dynamically generated images from your LinkedIn profile on your github readmes.
 - [GitHub Readme Medium](https://github.com/omidnikrah/github-readme-medium#readme) - 📖 Dynamically generated your latest Medium article on your github readmes.
 - [GitHub Readme Packagist Stats](https://github.com/agonyz/github-readme-packagist-stats) - Dynamically generated statistics of your Packagist Bundles for your GitHub readme.
@@ -25,6 +26,7 @@
 - [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats#readme) - Display your total contributions, current streak, and longest streak on your github profile readme.
 - [GitHub Readme Telegram](https://github.com/Malith-Rukshan/telegram-card) - Showcase your Telegram presence with beautiful, dynamic preview cards.
 - [GitHub Readme Twitter](https://github.com/gazf/github-readme-twitter#readme) - Add Twitter to your github readmes.
+- [GitHub Readme Zodiac](https://github.com/seuthootDev/github-readme-zodiac#readme) - Zodiac-themed SVG profile cards and pinned Gists from your GitHub activity.
 - [Isometric Contributions](https://github.com/Spectrewolf8/isometric-contributions) - Generate beautiful 3D isometric visualizations of GitHub contribution graphs with customizable themes, live preview builder, dark mode support, and intelligent caching.
 - [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator#readme) - Generate custom profile activity for your profile readme.
 - [Readme Pagespeed Insights](https://github.com/ankurparihar/readme-pagespeed-insights#readme) - Google lighthouse stats of your website that you can put in readme.
