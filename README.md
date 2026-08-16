@@ -17,6 +17,7 @@
 - [GitHub Contributions Chart](https://github.com/sallar/github-contributions-chart#readme) - :octocat: Generate an image of all your Github contributions
 - [Github Follow Tracker](https://github.com/Bittu5134/GH-Follow-Tracker) - 📈 Showcase Follower History using dynamically generating SVG images.
 - [GitHub PR Stats](https://github.com/f14XuanLv/github-pr-stats#readme) - 📊 Generate dynamic SVG tables showcasing your GitHub pull requests with repository statistics and star-based filtering.
+- [GitHub README Insight Terminal ASCII](https://github.com/seuthootDev/github-readme-insight-terminal-ascii#readme) - Terminal-styled SVG cards (contribution graph, stats, top languages, neofetch) for your GitHub README, themed as macOS/Windows/Ubuntu terminals.
 - [GitHub Readme LinkedIn](https://github.com/soroushchehresa/github-readme-linkedin#readme) - 📋 Dynamically generated images from your LinkedIn profile on your github readmes.
 - [GitHub Readme Medium](https://github.com/omidnikrah/github-readme-medium#readme) - 📖 Dynamically generated your latest Medium article on your github readmes.
 - [GitHub Readme Packagist Stats](https://github.com/agonyz/github-readme-packagist-stats) - Dynamically generated statistics of your Packagist Bundles for your GitHub readme.
