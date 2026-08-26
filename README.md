@@ -59,6 +59,7 @@
 
 ## Badges
 
+- [AwesomeTime](https://github.com/tiger-dreams/awesometime#readme) - Zero-dependency SVG badge generator for year-progress bars and date countdowns, with a live-ticking seconds digit, 3 styles, custom colors/fonts, and English/Korean locales.
 - [Git Badges](https://github.com/puf17640/git-badges#readme) - An API serving useful badges for your github profile readme 🚀.
 - [Hits](https://github.com/dwyl/hits) - 📈 General purpose hits (page views) counter.
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges#readme) - Badges for your profile and projects.
