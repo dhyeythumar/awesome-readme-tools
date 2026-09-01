@@ -49,6 +49,7 @@
 
 - [Activity Log](https://github.com/TheDanniCraft/activity-log#readme) - Dynamically display your recent github activity (Markdown or HTML).
 - [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow#readme) - Show the latest blog posts from any sources or StackOverflow activity or youtube videos on your github profile/project readme automatically using the RSS feed.
+- [Deus Commit Chart](https://github.com/dturovskiy/deus-commit-chart) - GitHub Action that generates static 30/90/365-day contribution charts as README-safe SVGs without a live chart backend.
 - [Dynamic Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page#readme) - GitHub action to push updates to your special profile repository.
 - [Ghstats](https://github.com/tiennm99/ghstats#readme) - Go CLI + GitHub Action that generates 9 themed SVG profile cards with 61+ themes and byte-weighted commit-to-language attribution.
 - [Github Activity Readme](https://github.com/jamesgeorge007/github-activity-readme#readme) - Updates readme with the recent github activity of a user.
