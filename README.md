@@ -43,6 +43,7 @@
 - [NRG](https://github.com/nanolaba/readme-generator#readme) - Multi-language README generator that builds README files from a single `.src.md` template with imports, widgets, and a table-of-contents engine. CLI, Maven plugin, and Java library.
 - [Plantek README Manager](https://gitlab.com/MarleyPlant/readme-manager) - Stop wasting time on READMEs. This CLI tool generates professional documents for your Git projects with ease.
 - [Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator#readme) - 🎨 Beautify your github profile with this amazing tool.
+- [README Skills](https://github.com/Shiaoming123/readme-skills#readme) - Evidence-first Agent Skill that audits, generates, restructures, and synchronizes multilingual repository READMEs.
 - [REHeader](https://github.com/khalby786/REHeader#readme) - Generate beautiful header images for your github profile readmes.
 
 ## GitHub Actions for Readmes
