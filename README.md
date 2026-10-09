@@ -59,6 +59,7 @@
 
 ## Badges
 
+- [awesometime](https://github.com/tiger-dreams/awesometime) - Pretty, dynamic SVG badges for your GitHub README — year progress, days-left countdowns, and more.
 - [Git Badges](https://github.com/puf17640/git-badges#readme) - An API serving useful badges for your github profile readme 🚀.
 - [Hits](https://github.com/dwyl/hits) - 📈 General purpose hits (page views) counter.
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges#readme) - Badges for your profile and projects.
