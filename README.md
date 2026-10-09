@@ -79,6 +79,7 @@
 - [Spotify Readme](https://github.com/tthn0/Spotify-Readme#readme) - A modern and customizable widget for showing your current Spotify song on your github profile.
 - [Simple Icons](https://github.com/simple-icons/simple-icons#readme) - SVG icons for popular brands.
 - [Spotify Recently Played Readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
+- [TypeFire README Editor](https://typefire.ai/readme-editor) - Free browser editor for writing a README.md and seeing it formatted as you type, then downloading the file. No sign-up.
 
 ## Contribute
 
