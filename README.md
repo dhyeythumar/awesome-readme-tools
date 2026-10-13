@@ -69,6 +69,7 @@
 
 ## Miscellaneous
 
+- [Credly-IMG](https://credly-img.tugal.be/) - Generate images from Credly digital badges.
 - [GitHub Profile Header Generator](https://github.com/leviarista/github-profile-header-generator) - A header image generator for your Github profile Readme.
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#readme) - 🏆 Add dynamically generated github trophy on your readme.
 - [GitHub Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes#readme) - 🔥 Add programming quotes to your github readme.
