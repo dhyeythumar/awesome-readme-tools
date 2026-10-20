@@ -6,6 +6,7 @@
 
 - [Statistical Tools (Widgets)](#statistical-tools-widgets)
 - [Readme Generator](#readme-generator)
+- [README Previewers](#readme-previewers)
 - [GitHub Actions for Readmes](#github-actions-for-readmes)
 - [Badges](#badges)
 - [Miscellaneous](#miscellaneous)
@@ -44,6 +45,10 @@
 - [Plantek README Manager](https://gitlab.com/MarleyPlant/readme-manager) - Stop wasting time on READMEs. This CLI tool generates professional documents for your Git projects with ease.
 - [Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator#readme) - 🎨 Beautify your github profile with this amazing tool.
 - [REHeader](https://github.com/khalby786/REHeader#readme) - Generate beautiful header images for your github profile readmes.
+
+## README Previewers
+
+- [Glim](https://github.com/NeoPanic/Glim) - A macOS file viewer for previewing local README files with Markdown, Mermaid diagrams, and LaTeX formulas.
 
 ## GitHub Actions for Readmes
 
