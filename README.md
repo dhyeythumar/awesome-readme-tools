@@ -25,6 +25,7 @@
 - [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats#readme) - Display your total contributions, current streak, and longest streak on your github profile readme.
 - [GitHub Readme Telegram](https://github.com/Malith-Rukshan/telegram-card) - Showcase your Telegram presence with beautiful, dynamic preview cards.
 - [GitHub Readme Twitter](https://github.com/gazf/github-readme-twitter#readme) - Add Twitter to your github readmes.
+- [GitHubCard](https://githubcard.com) - Drag-and-drop designer for GitHub profile and repository cards with live stats, streak, language and star-history widgets, embedded as SVG.
 - [Isometric Contributions](https://github.com/Spectrewolf8/isometric-contributions) - Generate beautiful 3D isometric visualizations of GitHub contribution graphs with customizable themes, live preview builder, dark mode support, and intelligent caching.
 - [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator#readme) - Generate custom profile activity for your profile readme.
 - [Readme Pagespeed Insights](https://github.com/ankurparihar/readme-pagespeed-insights#readme) - Google lighthouse stats of your website that you can put in readme.
