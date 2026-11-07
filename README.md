@@ -16,6 +16,7 @@
 - [GitClear Area Charts](https://www.gitclear.com/github_profile_dynamic_readme_free#area_graph) - Dynamically generating area charts to showcase relative velocity of work across repos
 - [GitHub Contributions Chart](https://github.com/sallar/github-contributions-chart#readme) - :octocat: Generate an image of all your Github contributions
 - [Github Follow Tracker](https://github.com/Bittu5134/GH-Follow-Tracker) - 📈 Showcase Follower History using dynamically generating SVG images.
+- [GitHub Planet](https://github.com/nitr0yukkuri/githubplanet) - Generate interactive 3D planets and shareable profile cards from GitHub activity.
 - [GitHub PR Stats](https://github.com/f14XuanLv/github-pr-stats#readme) - 📊 Generate dynamic SVG tables showcasing your GitHub pull requests with repository statistics and star-based filtering.
 - [GitHub Readme LinkedIn](https://github.com/soroushchehresa/github-readme-linkedin#readme) - 📋 Dynamically generated images from your LinkedIn profile on your github readmes.
 - [GitHub Readme Medium](https://github.com/omidnikrah/github-readme-medium#readme) - 📖 Dynamically generated your latest Medium article on your github readmes.
