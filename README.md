@@ -52,6 +52,7 @@
 - [Dynamic Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page#readme) - GitHub action to push updates to your special profile repository.
 - [Ghstats](https://github.com/tiennm99/ghstats#readme) - Go CLI + GitHub Action that generates 9 themed SVG profile cards with 61+ themes and byte-weighted commit-to-language attribution.
 - [Github Activity Readme](https://github.com/jamesgeorge007/github-activity-readme#readme) - Updates readme with the recent github activity of a user.
+- [Glancecard](https://github.com/gfazioli/glancecard#readme) - GitHub Action that renders daily SVG cards of your profile and repositories inside your own repo, in 17 looks with dark/light pairs; no server, no third-party service.
 - [My Most Famous Followers](https://github.com/Joe-Huber/my-most-followed-followers) - Automatically creates a table in your read me with your most followed followers.
 - [Profile Readme](https://github.com/actions-js/profile-readme#readme) - Display profile activity and other cool widgets in your profile readme.
 - [Profile Readme Stats](https://github.com/teoxoy/profile-readme-stats#readme) - Showcase your github stats on your profile readme.
