@@ -40,6 +40,7 @@
 - [rahuldkjain/GitHub Profile Readme Generator](https://github.com/rahuldkjain/github-profile-readme-generator#readme) - 🚀 Generate github profile readme easily with the latest add-ons like visitors count, github stats, etc using minimal UI.
 - [GitHub Profile Readme Maker](https://github.com/VishwaGauravIn/github-profile-readme-maker#readme) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫.
 - [GitHub Profilinator](https://github.com/rishavanand/github-profilinator#readme) - 🚀 This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
+- [GitSkins](https://www.gitskins.com) - Build a GitHub profile README from your real repositories and stats, with 80+ templates (animated ones included), themed stats cards and one-click publish to your profile.
 - [NRG](https://github.com/nanolaba/readme-generator#readme) - Multi-language README generator that builds README files from a single `.src.md` template with imports, widgets, and a table-of-contents engine. CLI, Maven plugin, and Java library.
 - [Plantek README Manager](https://gitlab.com/MarleyPlant/readme-manager) - Stop wasting time on READMEs. This CLI tool generates professional documents for your Git projects with ease.
 - [Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator#readme) - 🎨 Beautify your github profile with this amazing tool.
